@@ -22,3 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 node_modules
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/yt-ce-storybook-v5_v6.iml
+.idea/inspectionProfiles/Project_Default.xml
