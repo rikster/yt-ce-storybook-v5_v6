@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Storybook for React
+
+An isolated dev env for react components. Enabled separation of components 
+being dev'ed. Visulaize them separatedly. Accessability feedback. 
+
+There are versions of SB examples v5 nad v6
+
+npx create-react-app yt-ce-storybook-v5_v6
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
