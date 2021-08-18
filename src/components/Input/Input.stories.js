@@ -1,3 +1,4 @@
+// This is a test comment
 import React from 'react';
 import Input from './Input';
 

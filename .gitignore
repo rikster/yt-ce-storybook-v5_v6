@@ -28,3 +28,4 @@ node_modules
 .idea/vcs.xml
 .idea/yt-ce-storybook-v5_v6.iml
 .idea/inspectionProfiles/Project_Default.xml
+/.idea/aws.xml
